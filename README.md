@@ -18,10 +18,3 @@ Este repositório foi criado a partir do vídeo:
 Canal **Agilizei**
 
 ---
-
-## 🚀 Como executar
-
-1. Clone o repositório:
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-
